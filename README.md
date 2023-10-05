@@ -1,1 +1,1 @@
-# Laborat-rio-de-Algoritmos-Avan-ados-I
+# Laboratorio-de-Algoritmos-Avancados-I
